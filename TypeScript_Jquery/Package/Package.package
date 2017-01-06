@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3578c09c-eff5-4088-9e5b-6ea9fd0981ef" 
+        solutionId="3578c09c-eff5-4088-9e5b-6ea9fd0981ef" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TypeScript_Jquery"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="d5e52033-5cb3-4a56-948d-43c817125fba" />
+  </features>
+</package>
